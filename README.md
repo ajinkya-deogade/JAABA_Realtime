@@ -9,9 +9,9 @@ Modified by Ajinkya Deogade (ajideo05_at_gmail.com)
 1. ##### Subset of perframe features computed realtime
 The program uses the perframe fearures computed realtime and applies the window features using only the past information.
 
-4. ##### Window features computed using only the past information
+2. ##### Window features computed using only the past information
 To speedup the classifcation the program only computes the top 5 important features extracted by performing offline cross-validation.
 
-7. ##### Modified the spine computation to speed-up the perframe computation 10x
+3. ##### Modified the spine computation to speed-up the perframe computation 10x
 
-9. ##### Compiled the code in Java for real-time classification
+4. ##### Compiled the code in Java for real-time classification
